@@ -2,8 +2,8 @@
 **`Studant (Developer)`**
 <p>
 Hi, i'm a studant Dev. I started recently study about Dev.
-  - Just learning progammation for my future.
-  - I am looking for my first job opportunity.
+  -Just learning progammation for my future.
+  -I am looking for my first job opportunity.
 </p>
 
 <div align="center">

@@ -22,8 +22,23 @@
   - ⚡ I enjoy reading manga, or comics, as well as watching movies and i love playing games! I have good comunication and i enjoy interact another persons and meet they.
 </details>
 
-[![Hugo Chimendes](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/hugo-chimendes-86719b264)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit)](hugo.leite1201@gmail.com)
+<h2 align="left">My Contact</h2>
+
+###
+
+<img align="left" height="160" src="https://www.icegif.com/wp-content/uploads/icegif-4383.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
+  <a href="hugo.leite1201@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
+  </a>
+  <a href="linkedin.com/in/hugo-chimendes-86719b264" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 

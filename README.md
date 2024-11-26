@@ -1,9 +1,13 @@
 # Hello World! My name is Hugo Chimendes 
 **`Studant (Developer)`**
 <p>
-Hi, i'm a studant Dev. I started recently study about Dev.
-  -Just learning progammation for my future.
-  -I am looking for my first job opportunity.
+  Hi, i'm a studant Dev. I started recently study about Dev.
+
+  - 🌱 I’m currently studying Python.
+
+  - 🔭 I am looking for my first job opportunity.
+</p>
+
 </p>
 
 <div align="center">

@@ -1,5 +1,5 @@
 # Hello World! My name is Hugo Chimendes 
-**`Studant (Developer)`**
+**`Student (Developer)`**
 <p>
   Hi, i'm a studant Dev. I started recently study about Dev.
 
@@ -18,7 +18,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old, currently living in Brazil. I have intermediary in English and have experience with Python. I am just a student who wants to start in career as a DEV Junior.
+  - 💬 I am 19 years old, currently living in Brazil. I have intermediary level in English and have experience with Python. I am just a student who wants to start in career as a DEV Junior.
   - ⚡ I enjoy reading manga, or comics, as well as watching movies and i love playing games! I have good comunication and i enjoy interact another persons and meet they.
 </details>
 

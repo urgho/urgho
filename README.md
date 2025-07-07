@@ -3,7 +3,7 @@
 <p>
   Hi, i'm a studant Dev. I started recently study about Dev.
 
-  - 🌱 I’m currently studying Python, HTML, CSS, SQL.
+  - 🌱 I’m currently studying Python, HTML, CSS, MySQL, Java.
 
   - 🔭 I am looking for my first job opportunity.
 </p>

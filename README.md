@@ -83,8 +83,7 @@ Antes de programar profissionalmente, passei por almoxarifado industrial, atendi
 | Projeto | Stack | Descrição |
 |---|---|---|
 | [Sistema de Gestão de Indústria](https://github.com/urgho/Sistema-Gestao-De-Industria) | `Java` `MySQL` | Sistema de gestão industrial em **Java puro**, sem framework, com persistência em MySQL. Projeto solo — modelei o domínio a partir do que eu vivi no almoxarifado. |
-| [Pokédex](https://github.com/urgho/pokedex) | `TypeScript` | Pokédex consumindo a PokéAPI. |
-| [Pokédex React Native](https://github.com/urgho/PokedexReactNative) | `TypeScript` `React Native` | Versão mobile da Pokédex. |
+| [Pokédex](https://github.com/urgho/pokedex) | `TypeScript` `React Native` | Versão mobile da Pokédex. |
 | [Tetris](https://github.com/urgho/Tetris) | `JavaScript` | Tetris do zero — lógica de colisão, rotação de peças e pontuação. |
 | [Gerador de Senhas](https://github.com/urgho/GeradorDeSenhas) | `HTML` `CSS` `JS` | Gerador de senhas configurável. |
 | [Automation](https://github.com/urgho/automation) | `Python` `PyAutoGUI` | Automação de inscrição no site do SENAI. Meu primeiro projeto de automação — depois evoluí para um bot que abria jogos e fazia login sozinho. |
